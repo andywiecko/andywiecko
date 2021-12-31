@@ -23,12 +23,12 @@ I like science stuff 🤓
 
 ## Contact
 
-Interesed in hiring me? Send me a message at
+Interested in hiring me? Send me a message at
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrzej-wieckowski/).
 
 ---
 
-Last edited: 29/12/2021
+Last edited: 31/12/2021
 
 [laparo]:https://laparosimulators.com/
 [polibuda]:http://www.kft.pwr.edu.pl/
