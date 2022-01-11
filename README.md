@@ -16,7 +16,9 @@ I published a few papers in respectful journals, one can find them [**here**][pa
 
 ## Personal info
 
-In my free time I develop PBD2D engine, for two-dimensional soft-body physics within the Unity Burst compiler, which preview one can find on my [Twitter][twitter].
+In my free time I develop **PBD2D** engine, for two-dimensional soft-body physics within the [Unity Burst][burst] compiler, which preview one can find on my [Twitter][twitter].
+Current implementation supports simulation of one, two-dimensional structures, fluid (experimental) within various interaction between them like collisions, connectors, or dragging with mouse.
+
 I am interested mostly in simulation, game physics, computer graphics.
 
 I like science stuff 🤓
@@ -28,9 +30,10 @@ Interested in hiring me? Send me a message at
 
 ---
 
-Last edited: 31/12/2021
+Last edited: 11/01/2021
 
 [laparo]:https://laparosimulators.com/
 [polibuda]:http://www.kft.pwr.edu.pl/
 [papers]:https://andywiecko.github.io/pubs/
 [twitter]:https://twitter.com/andywiecko/
+[burst]:https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html
