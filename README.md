@@ -11,13 +11,14 @@ I conduct a literature review, do analytical calculations, implement the physica
 
 I was the researcher at Wrocław University of Science and Technology in the [Department of Theoretical Physics][polibuda] for over 2 years.
 I defended my Ph.D. after 2 years! This is my lifetime achievement.
-My [thesis][thesis] topic was related to Majorana quasiparticles (topological quantum computers).
+My [thesis][thesis] was related to Majorana quasiparticles (topological quantum computers).
 I published a few papers in respectful journals, one can find them [**here**][papers].
 
 ## Personal info
 
-In my free time I develop **PBD2D** engine[^1], for two-dimensional soft-body physics within the [Unity Burst][burst] compiler, which preview one can find on my [Twitter][twitter].
-Current implementation supports simulation of one, two-dimensional structures, fluid (experimental) within various interaction between them like collisions, connectors, or dragging with mouse.
+In my free time, I develop **PBD2D** engine[^1] –  physics engine for two-dimensional soft-body simulations within the [Unity Burst][burst] compiler.
+The project's preview one can find on my [Twitter][twitter].
+The current implementation supports simulation of one-, two-dimensional structures, fluid (experimental) within various interactions between them like collisions, connectors, or dragging with the mouse.
 
 [^1]:will be published soon
 
@@ -27,12 +28,12 @@ I like science stuff 🤓
 
 ## Contact
 
-Interested in hiring me? Send me a message at
+Interested in hiring me? Send me a message
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrzej-wieckowski/).
 
 ---
 
-Last edited: 12/01/2021
+Last edited: 13/01/2021
 
 [laparo]:https://laparosimulators.com/
 [polibuda]:http://www.kft.pwr.edu.pl/
