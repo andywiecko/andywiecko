@@ -1,6 +1,6 @@
 # Andrzej Więckowski, Ph.D.
 
-## Current appointment
+<!-- ## Current appointment
 
 Currently, I am part of the physics engine team at [**Laparo Simulators**][laparo].
 We develop the software that will be used in laparoscopic simulators.
@@ -13,6 +13,7 @@ I was the researcher at Wrocław University of Science and Technology in the [De
 I defended my Ph.D. after 2 years! This is my lifetime achievement.
 My [thesis][thesis] was related to Majorana quasiparticles (topological quantum computers).
 I published a few papers in respectful journals, one can find them [**here**][papers].
+-->
 
 ## Personal info
 
@@ -23,14 +24,16 @@ I am interested mostly in simulation, game physics, computer graphics, and quant
 
 I like science stuff 🤓
 
+<!--
 ## Contact
 
 Interested in hiring me? Send me a message
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrzej-wieckowski/).
+-->
 
 ---
 
-Last edited: 11/09/2022
+Last edited: 19/05/2023
 
 [laparo]:https://laparosimulators.com/
 [polibuda]:http://www.kft.pwr.edu.pl/
