@@ -1,21 +1,20 @@
 ## About Me
 
-In my free time, I develop the [**PBD2D**][PBD2D] engine — a physics engine for two-dimensional soft-body simulations within the Unity Burst compiler. 
-You can find demo scenes for this project [**here**](https://andywiecko.github.io/PBD2D-examples). 
-Additionally, I actively develop [**Burst Triangulator**][burst-triangulator], an efficient Unity Delaunay triangulation package with constraints and refinement support.
+I am a software developer with a strong academic background, currently focused on simulations and game engines. 
+I leverage my expertise in programming and physics to contribute to innovative projects in this field.
 
-I am primarily interested in:
+In my free time, I actively work on [**Burst Triangulator**][burst-triangulator], an efficient Unity Delaunay triangulation package with support for constraints and refinement. 
+Additionally, I develop [**PBD2D**][PBD2D], a physics engine for two-dimensional soft-body simulations within the Unity Burst compiler. My primary interests include:
 
-- simulation
-- game physics
-- computer graphics
-- quantum computing.
+- Simulation
+- Game Physics
+- Computer Graphics
 
-I'm passionate about all things related to science 🤓.
+I value minimalism and simplicity in both design and code, striving for efficient solutions.
 
 <br>
 
-Last edited: 26/09/2023
+Last edited: 22/05/2024
 
 [burst]:https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html
 [PBD2D]:https://github.com/andywiecko/PBD2D
