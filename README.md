@@ -17,13 +17,11 @@ In my free time, I actively develop and maintain several Unity projects:
   </a>
 
   <strong><a href="https://assetstore.unity.com/packages/tools/gui/uit-graphs-374468">UIT Graphs</a></strong> — graph plotting package available on the Unity Asset Store. The package is inspired by industry-standard plotting tools such as gnuplot and matplotlib, and allows you to create graphs both at runtime and in the Unity Editor.
-
-  **Docs:** https://andywiecko.github.io/UIT-Graphs-Docs/
+  [ᵈᵒᶜˢ↗](https://andywiecko.github.io/UIT-Graphs-Docs/)
 
 <br clear="left">
 </div>
 
-<br>
 <br>
 
 <div>
@@ -36,8 +34,8 @@ In my free time, I actively develop and maintain several Unity projects:
   </a>
   
   <strong><a href="https://github.com/andywiecko/BurstTriangulator">Burst Triangulator</a></strong> — an efficient Unity Delaunay triangulation package with support for constraints and refinement.
-
-  **Docs:** https://andywiecko.github.io/BurstTriangulator/
+  Designed for high-performance geometry processing with Unity's Burst compiler and Job System.
+  [ᵈᵒᶜˢ↗](https://andywiecko.github.io/BurstTriangulator/)
 
 <br clear="right">
 </div>
